@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RockPaperScissors</string>
+    <string name="single_player">Single Player</string>
+    <string name="dual_player">Dual Player</string>
+    <string name="rules">Rules</string>
+    <string name="exit">Exit</string>
+    <string name="scissors_image">scissors image</string>
+    <string name="your_choice">Your Choices</string>
+    <string name="paper_image">paper image</string>
+    <string name="rock_image">rock image</string>
+    <string name="Rock">Rock</string>
+    <string name="Paper">Paper</string>
+    <string name="Scissors">Scissors</string>
+    <string name="user_res">user res</string>
+    <string name="com_res">com res</string>
+    <string name="You">1st Player</string>
+    <string name="Computer">Computer</string>
+</resources>
